@@ -4,9 +4,11 @@ A responsive React, TypeScript, and Vite application for a multi-step life insur
 
 ## Screenshot
 
-| Desktop | Mobile (390px viewport) |
+Current screenshots show the **Your Details** step with the latest form heading icon.
+
+| Desktop — 1704 × 899 | Mobile — 390 × 844 |
 |---|---|
-| ![NobleOak quote journey — desktop](./docs/quote-journey.png) | ![NobleOak quote journey — mobile](./docs/quote-journey-mobile.png) |
+| ![Current NobleOak quote journey on desktop](./docs/quote-journey.png) | ![Current NobleOak quote journey on a mobile viewport](./docs/quote-journey-mobile.png) |
 
 ## Requirements
 
